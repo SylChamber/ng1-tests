@@ -1,0 +1,40 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "jasmine": true,
+        "node": true
+    },
+    "extends": "eslint:recommended",
+    "globals": {
+        "angular": false,
+        "module": false,
+        "inject": false
+    },
+    "parserOptions": {
+        "ecmaVersion": 2015
+    },
+    "plugins": [
+        "angular",
+        "jasmine"
+    ],
+    "rules": {
+        "indent": [
+            "error",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "windows"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ]
+    }
+}

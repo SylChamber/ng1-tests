@@ -1,0 +1,7 @@
+{
+    "eslint.enable": true,
+    "eslint.provideLintTask": true,
+    "files.defaultLanguage": "javascript",
+    "jasmineExplorer.config": "./jasmine.json",
+    "npm.enableScriptExplorer": true
+}
