@@ -1,7 +1,7 @@
 {
   "name": "ng1-tests",
   "version": "1.0.0",
-  "description": "Documents how to write unit tests on legacy AngularJS apps using command-line Jasmine for Node.js.",
+  "description": "Documents how to write unit tests on legacy AngularJS apps using command-line Jasmine for Node.js and jsdom.",
   "private": true,
   "scripts": {
     "test": "jasmine --config=./jasmine.json"

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project documents how to write unit tests on legacy AngularJS apps using Node.js and the Jasmine command line.
+This project documents how to write unit tests on legacy AngularJS apps using Node.js, the Jasmine command line, and `jsdom`, a simulated browser for Node.js.
 
 AngularJS support may cease in a couple of years, but there are still AngularJS apps being maintained, and in some case, developed because of mandatory choices in some organizations.
 
